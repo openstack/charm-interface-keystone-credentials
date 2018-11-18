@@ -13,4 +13,4 @@ summary: >
                              Defaults to Admin role.
            domain: Keystone v3 domain the user will be created in. Defaults
                    to the Default domain.
-maintainer: OpenStack Charmers <openstack-dev@lists.openstack.org>
+maintainer: OpenStack Charmers <openstack-discuss@lists.openstack.org>
