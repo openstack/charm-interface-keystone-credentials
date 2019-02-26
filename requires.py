@@ -26,6 +26,10 @@ class KeystoneRequires(RelationBase):
                       'credentials_protocol', 'credentials_port',
                       'credentials_project', 'credentials_username',
                       'credentials_password', 'credentials_project_id',
+                      'credentials_project_domain_id',
+                      'credentials_user_domain_id',
+                      'credentials_project_domain_name',
+                      'credentials_user_domain_name',
                       'api_version', 'auth_host', 'auth_protocol', 'auth_port',
                       'region', 'ca_cert', 'https_keystone']
 
